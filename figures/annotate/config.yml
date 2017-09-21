@@ -17,3 +17,6 @@ grid:
     - 1
     - 1
     url: "/users/76982/articles/200832/master/file/figures/annotate/annotate.xlsx"
+    folder_url: "/users/76982/articles/200832/master/folder/figures/annotate"
+    maxRows: '4'
+    maxColumns: '4'
